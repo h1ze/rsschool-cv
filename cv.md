@@ -1,27 +1,35 @@
 # Kirill Burnov
 
 ## My Contact Info:
-* Phone: 89991589741
-* Email: h1ze163@gmail.com
-* Telegram: @kir163
-* Github: <https://github.com/h1ze>
-***
+
+- Phone: 89991589741
+- Email: h1ze163@gmail.com
+- Telegram: @kir163
+- Github: <https://github.com/h1ze>
+
+---
+
 ## About me:
+
 I am 32 years old, I work in the applied information systems support group. I like to solve logical puzzles and brainteasers, learn new knowledge and skills to put it into practice.
 My worst enemy is procrastination, I try to fight it with all my might, but it often wins.
-***
+
+---
 
 ## My skills:
-+ HTML
-+ CSS
-+ JavaScript
-+ Git
-***
+
+- HTML
+- CSS
+- JavaScript
+- Git
+
+---
 
 ## Code example:
-**Find the missing letter KATA from CODEWARS:** *Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+
+**Find the missing letter KATA from CODEWARS:** _Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2.
-The array will always contain letters in only one case.*
+The array will always contain letters in only one case._
 
 ```
 function findMissingLetter(array) {
@@ -31,17 +39,24 @@ function findMissingLetter(array) {
     }
 }
 ```
-***
+
+---
 
 ## Work experience:
-*Actively looking...*
-***
+
+_Actively looking..._
+
+---
 
 ## Courses:
-1) 30 days HTML/CSS marathon <https://htmlacademy.ru/>
-2) Web-developer <https://practicum.yandex.ru/profile/web/> *(in progress)*
-3) JavaScript <https://learn.javascript.ru> *(in progress)*
-***
+
+1. 30 days HTML/CSS marathon <https://htmlacademy.ru/>
+2. Web-developer <https://practicum.yandex.ru/profile/web/> _(in progress)_
+3. JavaScript <https://learn.javascript.ru> _(in progress)_
+
+---
+
 ## Language:
-+ English: A2 level
-+ Russian: Native
+
+- English: A2 level
+- Russian: Native
