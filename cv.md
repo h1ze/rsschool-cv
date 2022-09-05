@@ -31,3 +31,17 @@ function findMissingLetter(array) {
     }
 }
 ```
+***
+
+## Work experience:
+*Actively looking...*
+***
+
+## Courses:
+1) 30 days HTML/CSS marathon <https://htmlacademy.ru/>
+2) Web-developer <https://practicum.yandex.ru/profile/web/> *(in progress)*
+3) JavaScript <https://learn.javascript.ru> *(in progress)*
+***
+## Language:
++ English: A2 level
++ Russian: Native
