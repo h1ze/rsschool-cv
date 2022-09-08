@@ -43,3 +43,63 @@ body {
   width: 200px;
   border-radius: 30px;
 }
+
+.pb {
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  padding-bottom: 10px;
+  color: #43e97b;
+  position: relative;
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.title:before {
+  content: "";
+  position: absolute;
+  top: 35px;
+  right: 0;
+  width: 145px;
+  height: 3px;
+  background: #43e97b;
+}
+
+.left .icon {
+  font-size: 20px;
+  color: #38f9d7;
+}
+
+.left .text {
+  color: #38f9d7;
+
+  font-size: 13px;
+}
+
+.contact .li-wrap {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.contact .li-wrap .icon {
+  width: 50px;
+  height: 50px;
+  background: #fff;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+
+.contact .li-wrap .text {
+  width: calc(100% - 50px);
+  word-break: break-word;
+}
