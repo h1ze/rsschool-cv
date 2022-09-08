@@ -77,7 +77,6 @@ body {
 
 .left .text {
   color: #38f9d7;
-
   font-size: 13px;
 }
 
@@ -102,4 +101,5 @@ body {
 .contact .li-wrap .text {
   width: calc(100% - 50px);
   word-break: break-word;
+  color: #fff;
 }
