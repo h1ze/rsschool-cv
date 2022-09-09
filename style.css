@@ -103,3 +103,23 @@ body {
   word-break: break-word;
   color: #fff;
 }
+
+.skills ul,
+.hobbies ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.skills .li-wrap,
+.hobbies .li-wrap {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
