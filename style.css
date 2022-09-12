@@ -8,10 +8,6 @@
   font-family: "Roboto", sans-serif;
 }
 
-/* body {
-  background: linear-gradient(#43e97b 0%, #38f9d7 100%);
-} */
-
 body {
   background: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
 }
@@ -171,4 +167,68 @@ body {
 .header .about {
   margin-top: 20px;
   line-height: 26px;
+}
+
+.right-inner .education {
+  margin-top: 30px;
+}
+
+.right-inner {
+  padding: 30px;
+  color: #292b2f;
+}
+
+.right-inner .li-wrap {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.right-inner .li-wrap .date {
+  width: 125px;
+  color: #38f9d7;
+}
+
+.right-inner .li-wrap .info {
+  width: calc(100% - 125px);
+  padding-left: 25px;
+  position: relative;
+}
+
+.right-inner .li-wrap .info-title {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #38f9d7;
+}
+
+.right-inner .li-wrap .info-com {
+  font-weight: 300;
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.right-inner .li-wrap .info-cont {
+  margin-top: 15px;
+}
+
+.right-inner .li-wrap .info:before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  background: #43e97b;
+  border-radius: 50%;
+}
+
+.right-inner .li-wrap .info:after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 4px;
+  width: 2px;
+  height: 90%;
+  background: #43e97b;
+  border-radius: 50%;
 }
